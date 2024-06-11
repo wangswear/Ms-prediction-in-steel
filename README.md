@@ -1,0 +1,1 @@
+The current dataset in this file contains 1695 terms of data, which are collected from the published books and literatures. And the data was preprocessed by data cleaning. Columns 1 to 14 are elemental characteristics, which are input variables, and the last column 0 (column 15) is the martensitic phase transition temperature of the steel, which is an output variable
